@@ -14,7 +14,7 @@ Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 ### Step 4:
 End the program
 ## Program:
-'''
+```
 #Program to find the rank of a matrix.
 #Developed by: Balamurugan B
 #RegisterNumber:212222230016
@@ -22,7 +22,7 @@ import numpy as np
 A = np.array([[3,2,5],[1,1,2],[3,3,6]])
 B = np.linalg.matrix_rank(A)
 print(B)
-'''
+```
 ## Output:
 ![mai](https://github.com/BALA291/RANK-OF-A-MATRIX/assets/120717501/3c61f368-c58a-4b97-8f88-82ed12530cce)
 
